@@ -6,6 +6,4 @@ This study entails using the collision cases in Montgomery County recorded by th
 
 # Visualizing the Findings
 
-The Tableau dashboard summarizing the findings of the study can be accessed with this link: 
-https://public.tableau.com/app/profile/aashish2358/viz/OptimalSolutionsGroup-DataScientist
-Test/Dashboard1?publish=yes
+The Tableau dashboard that summarizes the results of the study and be accessed through this link : https://public.tableau.com/app/profile/aashish2358/viz/ExaminingCollisionsinMontgomeryCounty/Dashboard1?publish=yes
